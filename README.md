@@ -1,3 +1,3 @@
-Hi there,I'm Zechs, a little rookie in programming
+Hi,I'm Zechs, a little rookie in programming
 ---------------OvO----------------
 
